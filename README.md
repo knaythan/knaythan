@@ -1,6 +1,6 @@
 <h1 align="center">Nathan Cohn</h1>
 <p align="center">
-  <b>Data Scientist | AI Researcher | Full-Stack Developer</b><br>
+  <b>Data Scientist | Machine Learning Engineer | Full-Stack Developer</b><br>
   Building AI-powered applications and intelligent systems with real-world impact
 </p>
 <p align="center">
